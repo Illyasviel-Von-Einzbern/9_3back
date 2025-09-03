@@ -17,7 +17,7 @@ import Restaurant from '../models/restaurant.js'
 import Menu from '../models/menu.js'
 import Review from '../models/review.js'
 import Counter from '../models/counter.js'
-import Tag from '../models/Tag.js'
+import Tag from '../models/tag.js'
 
 // 取得下一個序號
 // async function getNextSequence(name) {
