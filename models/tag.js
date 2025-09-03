@@ -1,4 +1,4 @@
-// models/Tag.js
+// models/tag.js
 
 import { Schema, model } from 'mongoose'
 

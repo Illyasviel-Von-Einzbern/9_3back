@@ -1,5 +1,5 @@
 // /controllers/tag.js
-import Tag from '../models/Tag.js'
+import Tag from '../models/tag.js'
 
 export const getTags = async (req, res) => {
   try {
