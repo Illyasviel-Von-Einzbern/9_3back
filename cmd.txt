@@ -1,0 +1,14 @@
+npm i init --yes
+npm i express mongoose dotenv validator http-status-codes
+npm i -D nodemon
+npm init @eslint/config@latest
+npm i -D eslint-config-prettier eslint-plugin-prettier
+npm i passport passport-local passport-jwt
+npm i jsonwebtoken
+
+npm i swiper
+npm i gsap
+npm i live2dcubismcore 
+npm i pixi.js
+npm i pixi-live2d-display
+npm i xlsx

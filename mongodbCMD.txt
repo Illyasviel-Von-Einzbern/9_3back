@@ -1,0 +1,11 @@
+選擇、切換資料庫
+use mydatabase
+
+執行更新指令，重設計數器
+db.counters.updateOne(
+  { _id: "restaurant" },
+  { $set: { seq: 0 } }
+)
+
+確認修改情況
+db.counters.findOne({ _id: "restaurant" })
